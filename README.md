@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/187289993.svg)](https://zenodo.org/badge/latestdoi/187289993)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_bandaragoda_etal_ems/master?urlpath=https%3A%2F%2Fgithub.com%2FChristinaB%2Fpub_bandaragoda_etal_ems%2Fblob%2Fmaster%2Freplicate_landslide_model_for_fire.ipynb)
 
 ### Suggested Citations: 
 **Code**
