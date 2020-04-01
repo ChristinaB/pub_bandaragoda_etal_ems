@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - landlab<2
+  - landlab==1.6.0
   - geopandas
   - dask
   - ogh
