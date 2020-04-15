@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - landlab==1.6.0
+  - geopandas
+  - dask
+  - ogh
+  - matplotlib
+  - pandas
+  - ffmpeg
+  - hs_restclient
